@@ -8,3 +8,4 @@ This is my school account in which I will do put in my code.
 <br>
 This repository will hold assignments for class.
 
+<img src="apple.webp">
